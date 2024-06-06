@@ -1,4 +1,10 @@
 {
+  "salaryslips" : {
+    "file_name" : "SalarySlip.json",
+    "columns" : {
+      "prompt": "text"
+    } 
+  },
   "identity": {
     "file_name": "identity.json"
   },
